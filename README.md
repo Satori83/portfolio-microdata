@@ -8,7 +8,7 @@
 
 This is the starter code for a step-by-step lesson. Each step is described in detail here:
 
-### [**Follow the “Portfolio MicroData” step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/web-dev-5/portfolio-micordata/)
+### [**Follow the “Portfolio MicroData” step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/web-dev-5/portfolio-microdata/)
 
 ---
 
